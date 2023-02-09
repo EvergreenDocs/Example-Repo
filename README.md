@@ -1,6 +1,6 @@
 
 
-Project: next-saas-starter12
+Project: next-saas-starter
 
 Name: next-saas-starter
 
@@ -8,16 +8,10 @@ Description:
 
 This project is a starter project for next-saas-starter. It is all the information I know about it:
 
-Name: next-saas-starter
+Name: next-js-boilerplate
 
 Description:
 
-This is a starter project for next-saas-starter. It is all the information I know about it:
+This project contains a file named next-js-boilerplate.md that is amdletated with the following content:
 
-- Name: next-saas-starter
-
-- Description: undefined
-
-- Keywords: undefined
-
-- Dependencies: next, next-seo, next-sitemap, react, react-dom, @commitlint/cli, @commitlint/config-conventional, @commitlint/cz-commitlint, @commitlint/changelog, @semantic-release/changelog, @semantic-release/git, @semantic-release/jest-dom, @
+[ "name" : "next-js-boilerplate", "description" : "This project is a starter project for next-saas-starter." , "main" : "https:// github.com/ next-saas-starter/ next-saas-starter" , "tasks" : [ "dev" : [ "https:// github.com/ next-saas-starter/ next-saas-starter/ files/ main.md" ], "build" : [ "https:// github.com
