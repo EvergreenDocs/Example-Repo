@@ -89,11 +89,11 @@ Ouvrez http://localhost:3000 avec votre navigateur préféré pour voir votre pr
 ├── .github                         # Dossier GitHub
 ├── .husky                         # Configuration Husky
 ├── .vscode                         # Configuration VSCode
-├── public                          # Dossier des ressources publiques
+├── public                         # Dossier des ressources publiques
 ├── src
 │   ├── layouts                     # Composants de mise en page
 │   ├── pages                       # Pages Next JS
-│   ├── pages.test                  # Tests de pages Next JS (ceci évite que les tests soient traités comme des pages Next.js)
+│   ├── pages.test                  # Tests de pages Next JS (ceci permet d'éviter que les tests soient traités comme des pages Next.js)
 │   ├── styles                      # Dossier des styles
 │   ├── templates                   # Modèle par défaut
 │   └── utils                       # Fonctions utilitaires
